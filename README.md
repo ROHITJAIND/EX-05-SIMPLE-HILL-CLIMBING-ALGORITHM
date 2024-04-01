@@ -70,7 +70,7 @@ SimpleHillClimbing()
 
 <table>
 <tr>
-<td width=40% valign=top>
+<td valign=top>
 
 ### Input String:
 Artificial Intelligence
